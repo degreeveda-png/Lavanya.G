@@ -3,7 +3,7 @@ import '../Components/Article2.css'
 
 const Article2 = () => {
   return (
-   <div class="contact">
+   <div id="contact">
       <h2>Contact Us</h2>
 
       <address>
