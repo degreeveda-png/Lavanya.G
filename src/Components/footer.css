@@ -1,0 +1,26 @@
+#footer {
+  background-color: #0f172a; /* dark blue */
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 15px;
+  font-size: 14px;
+  margin-top: -20px;
+}
+
+/* Optional subtle top border */
+#footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#footer p {
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  #footer {
+    font-size: 13px;
+    padding: 18px 10px;
+  }
+}

@@ -1,0 +1,46 @@
+.contact {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  text-align: center;
+  margin-top: -70px;
+}
+
+/* .contact h2 { */
+  /* font-size: 30px;
+  margin-bottom: 25px;
+  color: #1e293b;
+}
+
+.contact address {
+  font-style: normal;
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.8;
+  color: #444;
+}
+
+.contact p {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.contact a {
+  color: #0077ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile */
+/* @media (max-width: 480px) {
+  .contact h2 {
+    font-size: 24px;
+  }
+
+  .contact p {
+    font-size: 15px;
+  }
+}  */

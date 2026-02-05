@@ -1,0 +1,14 @@
+.header{
+    color:darkslateblue;
+    padding: -10px;
+    /* background-color: black;  */
+    /* background-color: rgb(7, 53, 100); */
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+}
+ .header h1{
+    font-size: 40px;
+    font-family: times new roman;
+ }
