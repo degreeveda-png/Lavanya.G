@@ -9,6 +9,7 @@
     border:5px solid black;
     margin: 0;
     font-family: arial;
+    position: relative;
 }
 .sun{
     display: grid;
@@ -18,4 +19,12 @@
 }
 .text h2{
     font-size:40px ;
+     }
+    .bca .bt{
+        padding: 5px;
+        width: 50px;
+        border: 2px solid black;
+        position:absolute;
+        top:5px;
+        right: 5px;
      }
